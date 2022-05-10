@@ -1,4 +1,4 @@
-const { apiData, apiDataByTitle  } = require("./api");
+const { apiData, apiDataByTitle  } = require("../api");
 
 const resolvers = {
     Query: {
